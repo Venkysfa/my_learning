@@ -1,0 +1,16 @@
+git status
+git commit -m "initial commit"
+git log
+git add file name #adding a file to stagging area.
+git add . #adds all the files which are modifed in commit
+git checkout "hashcode" #checkout to the commited location.
+git checkout master
+git branch
+git checkout -b "branchname" #This command directly creates new branch
+git merge branchname #checkout to the branch you want to merge the brance to.
+git remote -v
+git remote add orgin
+git branch -M master
+git push -u origin master
+
+
